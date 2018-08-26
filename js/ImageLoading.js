@@ -38,7 +38,7 @@ function loadImages(){
 	{varName: playerPic, theFile: "playeridle.png"},
 	{varName: playerPicPrimary, theFile: "playerprimary.png"},
 	{varName: playerPicSecondary, theFile: "playersecondary.png"},
-	{varName: infectedPic, theFile: "infectedspritesheet.png"},
+	{varName: infectedPic, theFile: "Infectedspritesheet.png"},
 	{tileType: TILE_ROAD, theFile: "road.png"},
 	{tileType: TILE_INFECTED, theFile: "infectedroad.png"}
 	];
